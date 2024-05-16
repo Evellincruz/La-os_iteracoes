@@ -1,0 +1,86 @@
+/* Estilo para o formulário */
+form {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 25px;
+  border: 6px solid rgb(240, 238, 245);
+  border-radius: 40px;
+  text-align: center;
+}
+
+/* Estilo para o rótulo */
+label {
+  text-align: center;
+  color: white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  width: 400px;
+  font-size: 25px;
+}
+
+/* Estilo para o seletor múltiplo */
+select {
+  width: 100%;
+  height: 160px;
+  /* Altura ajustável conforme necessário */
+  border: 1px solid rgb(39, 8, 100);
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+/* Estilo para o botão */
+input[type="button"] {
+  background-color: #41b2c6;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 15px 40px;
+  cursor: pointer;
+  text-align: center;
+}
+
+input[type="button"]:hover {
+  background-color: #297580;
+  align-items: center;
+}
+
+/* Estilo para o alerta */
+.alert {
+  padding: 15px;
+  background-color: #f44336;
+  color: white;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+#btn {
+  text-align: center;
+  align-items: center;
+  font-size: 18px;
+}
+
+#text {
+  text-align: center;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body {
+  background: linear-gradient(45deg, #13424f, #95cdee);
+  height: 97vh;
+  font-family: 'Montserrat', sans-serif;
+}
+
+#title {
+  text-align: center;
+  padding-top: 0;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+/* Estilo para o item selecionado */
+.music-list li.selected,
+.music-list li:hover.selected {
+  background-color: #79d6e7;
+  color: #fff;
+}
