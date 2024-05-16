@@ -1,6 +1,8 @@
 # Sistema de Contagem de Tipos de Música Selecionados
 
 Estre ptojeto foi proposto por Leonardo Rocha, no qual o objetivo do trabalho é implementar o código dado como exemplo de laço de repetiçãone melhorá-lo incluindo mais 3 gêneros musicais.
+# Resultado do projeto
+![banner](img_git/ezgif-6-620b0eef74.gif)
 
 O projeto é um exemplo de como contar os tipos de música selecionados por um usuário em um formulário web.
 

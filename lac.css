@@ -81,6 +81,9 @@ body {
 /* Estilo para o item selecionado */
 .music-list li.selected,
 .music-list li:hover.selected {
-  background-color: #79d6e7;
-  color: #fff;
+  background-color: #5ecbdf;
+  color: rgb(6, 137, 137);
+}
+option:hover{
+  background-color: rgb(71, 146, 181);
 }
